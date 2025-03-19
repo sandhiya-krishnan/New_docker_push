@@ -2,7 +2,6 @@
 
 # Set Docker image name, tag, and container name
 IMAGE_NAME="sandhiya6525/devops"
-TAG="latest"
 CONTAINER_NAME="jenkins-docker-container"
 
 # Stop and remove any existing container with the same name
